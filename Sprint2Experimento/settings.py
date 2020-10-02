@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'fuenteDeDatos',
     'estadisticas',
     'universidad',
+    'usuario',
 ]
 
 MIDDLEWARE = [
